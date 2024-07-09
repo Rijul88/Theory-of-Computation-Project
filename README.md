@@ -8,4 +8,4 @@ problem Statement.
 The file TOC_ASSIGNMENT_1.c contains code for making an NFA for problem statement, 
 creating an equivalent DFA and the telling whether the given string is accepted by the NFA or not.
 
-
+The "input.txt" contains just two line, the first one contains an integer, and the second line contains the input string.
